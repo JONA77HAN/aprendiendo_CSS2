@@ -36,9 +36,15 @@ img{
 
 .galeria{
     display:flex;
+    align-items: center;
 }
 
 .foto{
     flex: 1;
     padding: 6px;
+    border: 1px solid black;
+    margin: 2px;
+}
+a{
+    color:white
 }
